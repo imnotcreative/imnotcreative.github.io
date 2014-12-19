@@ -2,6 +2,17 @@ body{
 	color: #FF0000;
 	background-color: #0000FF;
 }
-h1{
-	color: 9900CC;
+h1 {
+    color: #9900FF;
+    background-color: #0000FF;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
 }
